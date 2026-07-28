@@ -61,18 +61,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=monish-576&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monish-576&layout=compact&theme=github_dark&hide_border=true" />
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
