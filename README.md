@@ -1,22 +1,25 @@
-# Hi 👋, I'm S. Monish
+<h1 align="center">Hi 👋, I'm S. Monish</h1>
 
-### 💻 Aspiring Software Development Engineer | B.Tech CSE
+<h3 align="center">
+  B.Tech CSE Student | Aspiring Software Development Engineer
+</h3>
 
-I'm a **3rd-year B.Tech Computer Science Engineering student** focused on building strong foundations in **Data Structures & Algorithms, problem solving, and software development**.
-
-Currently preparing for **SDE placements** and consistently improving my coding and core CS skills.
+<p align="center">
+  Passionate about Problem Solving, Data Structures & Algorithms, and Software Development
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🎓 3rd-year **B.Tech CSE** student
-* 💻 Aspiring **Software Development Engineer**
-* 🧠 Regularly practicing **Data Structures & Algorithms**
-* 🌱 Strengthening my **C++, Java & PostgreSQL** skills
-* 📚 Focused on problem solving and core CS fundamentals
-* 🎯 Currently preparing for **SDE placements**
-* 📫 Reach me at **[santhapurimonish@gmail.com](mailto:santhapurimonish@gmail.com)**
+- 🎓 3rd-year **B.Tech Computer Science Engineering** student
+- 💻 Aspiring **Software Development Engineer (SDE)**
+- 🧠 Regularly practicing **Data Structures & Algorithms**
+- 💡 Interested in **Problem Solving & Software Development**
+- 🌱 Currently strengthening **C++, Java & PostgreSQL**
+- 📚 Improving my **Core Computer Science fundamentals**
+- 🎯 Currently preparing for **SDE Placements**
+- 📫 Reach me at **santhapurimonish@gmail.com**
 
 ---
 
@@ -42,6 +45,10 @@ Currently preparing for **SDE placements** and consistently improving my coding 
   <img src="https://img.shields.io/badge/LeetCode-monish__576-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
+<a href="https://codolio.com/profile/Monish_576">
+  <img src="https://img.shields.io/badge/Codolio-Monish__576-6C63FF?style=for-the-badge" />
+</a>
+
 <a href="https://www.linkedin.com/in/s-monish-3a8008333/">
   <img src="https://img.shields.io/badge/LinkedIn-S.%20Monish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -51,8 +58,6 @@ Currently preparing for **SDE placements** and consistently improving my coding 
 </a>
 
 </p>
-
-**Codefolio:** `monish_576`
 
 ---
 
@@ -68,7 +73,7 @@ Currently preparing for **SDE placements** and consistently improving my coding 
 
 ---
 
-## 🔥 GitHub Contribution Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -78,7 +83,7 @@ Currently preparing for **SDE placements** and consistently improving my coding 
 
 ---
 
-## 🟩 Contribution Activity
+## 📈 GitHub Contribution Graph
 
 <p align="center">
 
@@ -100,31 +105,33 @@ Currently preparing for **SDE placements** and consistently improving my coding 
 
 ## 🎯 Current Focus
 
-```text
-📌 Data Structures & Algorithms
-📌 Competitive Problem Solving
-📌 C++ & Java
-📌 PostgreSQL
-📌 Core Computer Science Fundamentals
-📌 SDE Placement Preparation
-```
+- 🧠 Data Structures & Algorithms
+- 💻 Competitive Problem Solving
+- ⚙️ C++ & Java
+- 🗄️ PostgreSQL
+- 📚 Core Computer Science Fundamentals
+- 🚀 SDE Placement Preparation
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/s-monish-3a8008333/">
-  <img src="https://img.shields.io/badge/LinkedIn-S.%20Monish-blue?style=flat-square&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-S.%20Monish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:santhapurimonish@gmail.com">
-  <img src="https://img.shields.io/badge/Email-santhapurimonish%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-santha...%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/u/monish_576/">
-  <img src="https://img.shields.io/badge/LeetCode-monish__576-orange?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-monish__576-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://codolio.com/profile/Monish_576">
+  <img src="https://img.shields.io/badge/Codolio-Monish__576-6C63FF?style=for-the-badge" />
 </a>
 
 </p>
@@ -132,5 +139,9 @@ Currently preparing for **SDE placements** and consistently improving my coding 
 ---
 
 <p align="center">
-  <i>Consistent learning • Better problem solving • Building towards SDE 🚀</i>
+  <b>Consistency • Problem Solving • Continuous Learning 🚀</b>
+</p>
+
+<p align="center">
+  Building strong foundations today to become a better Software Engineer tomorrow.
 </p>
